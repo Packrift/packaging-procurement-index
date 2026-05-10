@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-05-10T21:02:25.547Z",
+  "baseUrl": "https://packrift.github.io/packaging-procurement-index",
+  "source": "/Users/farhan/Downloads/packrift-ai-commerce-factory/outputs/2026-05-10/mcp_corpus_sales_layer_20260510T204441Z/top-1000-ai-sales-skus.csv",
+  "skuRecords": 1000,
+  "pageTypes": [
+    "procurement-spec",
+    "purchase-order-line",
+    "reorder-instructions",
+    "bulk-quote-prep",
+    "receiving-qc",
+    "warehouse-slotting",
+    "substitution-review",
+    "ai-agent-prompt"
+  ],
+  "htmlUrls": 8011,
+  "sitemapUrls": 8011
+}
