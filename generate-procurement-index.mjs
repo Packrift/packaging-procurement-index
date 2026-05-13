@@ -251,11 +251,11 @@ function pageShell({ title, description, canonical, body, nav = true }) {
 <body>
   <header>
     <a class="brand" href="/">Packrift Procurement Index</a>
-    ${nav ? `<nav><a href="/sku/">SKU index</a><a href="/page-types/">Page types</a><a href="/sitemap.xml">Sitemap</a><a href="https://packrift.com">Packrift.com</a></nav>` : ""}
+    ${nav ? `<nav><a href="/sku/">SKU index</a><a href="/page-types/">Page types</a><a href="/sitemap.xml">Sitemap</a><a href="https://packrift.com/pages/tools">Packaging tools</a><a href="https://packrift.com">Packrift.com</a></nav>` : ""}
   </header>
   <main>${body}</main>
   <footer>
-    <p>Packrift.com is the source of truth for live price, inventory, checkout, shipping, and final product specifications. This public index is an owned discovery and procurement-reference surface.</p>
+    <p>Packrift.com is the source of truth for live price, inventory, checkout, shipping, and final product specifications. Use the <a href="https://packrift.com/pages/tools">Packrift packaging tools hub</a> for calculators and related resource libraries. This public index is an owned discovery and procurement-reference surface.</p>
   </footer>
 </body>
 </html>
